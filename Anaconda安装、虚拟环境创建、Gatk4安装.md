@@ -1,6 +1,6 @@
 # Anaconda安装、虚拟环境创建、Gatk4安装
 ## 1.更新与升级：
-sudo命令是用来以管理员权限运行，而apt是Debian/Ubuntu 系统下的包管理器。第一个命令会更新软件包列表，第二个命令会升级所有已安装的软件包
+sudo命令是用来以管理员权限运行，而apt是Debian/Ubuntu 系统下的包管理器。以下命令会更新软件包列表
 ```
 sudo apt update
 ```
